@@ -1,4 +1,4 @@
-# Rust Interactive CLI Input-Output Test 🦀💰
+# Rust Interactive CLI Input-Output Test 🦀
 
 A lightweight command-line interface (CLI) application built with **Rust** to test input-output functions. This project was developed to master the fundamentals of Rust's memory management and user interaction.
 
