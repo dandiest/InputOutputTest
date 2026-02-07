@@ -17,8 +17,8 @@ A lightweight command-line interface (CLI) application built with **Rust** to te
 
 ## 🚀 How to Run
 1. Clone the repository:
-   `git clone https://github.com/your-username/your-repo-name.git`
+   `git clone https://github.com/dandiest/InputOutputTest.git`
 2. Navigate to the folder:
-   `cd your-repo-name`
+   `cd InputOutputTest`
 3. Run the app:
    `cargo run`
